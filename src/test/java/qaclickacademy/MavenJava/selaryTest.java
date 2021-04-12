@@ -10,6 +10,9 @@ public class selaryTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("Browser Auto");
+		System.out.println("Post JIRA 2");
+		System.out.println("POST JIRA 3");
+		System.out.println("POST JIRA 4623");
 	}
 	
 	@Test
